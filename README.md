@@ -9,3 +9,11 @@ This is the mezzanine (daughter) PCB that connects the Adafruit QT Py (SAMD21) M
 		<td width="33%" height="33%"><img width="100%" height="100%" src="./pictures/20221216-PCB-3D-v01-back.jpg"></td>
 	</tr>
 </table>
+
+<table style="padding: 10px">
+	<tr>
+		<td width="33%" height="33%"><img width="100%" height="100%" src="./pictures/20221216-PCB-build-v01-front.jpg"></td>
+		<td width="33%" height="33%"><img width="100%" height="100%" src="./pictures/20221216-PCB-build-v01-back.jpg"></td>
+		<td width="33%" height="33%"><img width="100%" height="100%" src="./pictures/20221216-PCB-build-v01-side.jpg"></td>
+	</tr>
+</table>

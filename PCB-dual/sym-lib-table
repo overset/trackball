@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Adafruit QT Py M0")(type "KiCad")(uri "${KIPRJMOD}/Adafruit QT Py M0.kicad_sym")(options "")(descr ""))
+)

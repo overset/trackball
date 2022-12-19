@@ -26,7 +26,7 @@ This mezzanine PCB supports a single optical sensor breakout and is good for a d
 
 *Currently work in progress*
 
-This mezzanine PCB supports 2 optical sensor breakout boards being tested on a new case design. This leverages the PMW3389DM-T2QU or PMW2260DM-T2QU breakout boards from MrJohnK. Having the second optical sensor enables detecting horizontal ball movement (like a flat spin) to enable scroll/wheel events. This is specifically designed to work with the current case design detecting movements off a radial ball bearing for 1 sensor (scroll) and the trackball itself (x, y cursor movement).
+This mezzanine PCB supports 2 optical sensor breakout boards being tested on a new case design. This leverages the PMW3389DM-T3QU or PMW3360DM-T2QU breakout boards from MrJohnK. Having the second optical sensor enables detecting horizontal ball movement (like a flat spin) to enable scroll/wheel events. This is specifically designed to work with the current case design detecting movements off a radial ball bearing for 1 sensor (scroll) and the trackball itself (x, y cursor movement).
 
 <table style="padding: 10px">
 	<tr>

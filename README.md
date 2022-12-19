@@ -8,24 +8,29 @@ These are the mezzanine PCBs that connect the <a href="https://www.adafruit.com/
 
 This mezzanine PCB supports 2 optical sensor breakout boards being tested on a new case design. This leverages the PMW3389DM-T3QU or PMW3360DM-T2QU breakout boards from MrJohnK. Having the second optical sensor enables detecting horizontal ball movement (like a flat spin) to enable scroll/wheel events. This is specifically designed to work with the current case design detecting movements off a radial ball bearing for 1 sensor (scroll) and the trackball itself (x, y cursor movement).
 
-<span align="left"><img width="32%" src="./pictures/20221218-PCB-editor-v02-front.jpg"></span>
-<span align="left"><img width="32%" src="./pictures/20221218-PCB-3D-v02-front.jpg"></span>
-<span align="right"><img width="32%" src="./pictures/20221218-PCB-3D-v02-back.jpg"></span>
-
+<p align="center">
+	<span align="left"><img width="32%" src="./pictures/20221218-PCB-editor-v02-front.jpg"></span>
+	<span align="left"><img width="32%" src="./pictures/20221218-PCB-3D-v02-front.jpg"></span>
+	<span align="right"><img width="32%" src="./pictures/20221218-PCB-3D-v02-back.jpg"></span>
+</p>
 
 ### Single Optical Sensor PCB
 
 This mezzanine PCB supports a single optical sensor breakout and is good for a dedicated trackball or dedicated scrollball. This allows for a smaller case design, but made with using a 50mm or larger ball.
 
-<span align="left"><img width="32%" src="./pictures/20221216-PCB-editor-v01-front.jpg"></span>
-<span align="left"><img width="32%" src="./pictures/20221216-PCB-3D-v01-front.jpg"></span>
-<span align="right"><img width="32%" src="./pictures/20221216-PCB-3D-v01-back.jpg"></span>
+<p align="center">
+	<span align="left"><img width="32%" src="./pictures/20221216-PCB-editor-v01-front.jpg"></span>
+	<span align="left"><img width="32%" src="./pictures/20221216-PCB-3D-v01-front.jpg"></span>
+	<span align="right"><img width="32%" src="./pictures/20221216-PCB-3D-v01-back.jpg"></span>
+</p>
 
 Assembly of the first print:
 
-<span align="left"><img width="32%" src="./pictures/20221216-PCB-build-v01-front.jpg"></span>
-<span align="left"><img width="32%" src="./pictures/20221216-PCB-build-v01-back.jpg"></span>
-<span align="right"><img width="32%" src="./pictures/20221216-PCB-build-v01-side.jpg"></span>
+<p align="center">
+	<span align="left"><img width="32%" src="./pictures/20221216-PCB-build-v01-front.jpg"></span>
+	<span align="left"><img width="32%" src="./pictures/20221216-PCB-build-v01-back.jpg"></span>
+	<span align="right"><img width="32%" src="./pictures/20221216-PCB-build-v01-side.jpg"></span>
+</p>
 
 ## Credits, Attribution and Inspiration
 

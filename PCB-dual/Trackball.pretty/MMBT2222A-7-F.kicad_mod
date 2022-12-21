@@ -41,4 +41,9 @@
   (pad "1" smd rect (at -1.016 -1.016) (size 1.3208 0.5588) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 17cd1033-7571-4323-b12a-fb7980dc93b6))
   (pad "2" smd rect (at -1.016 1.016) (size 1.3208 0.5588) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6aa1017e-bb48-4ca6-99ed-1f6fab60524e))
   (pad "3" smd rect (at 1.016 0) (size 1.3208 0.5588) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 198ab62a-165b-4b18-aaab-ef22c54d15d1))
+  (model "${KIPRJMOD}/MMBT2222A-7-F.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

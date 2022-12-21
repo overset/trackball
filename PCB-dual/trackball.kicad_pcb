@@ -219,6 +219,11 @@
       (net 11 "Net-(U1-Pad13)") (pinfunction "SCK") (pintype "input") (tstamp d1212fb3-c678-40b7-9321-7d29daa9648d))
     (pad "14" smd rect locked (at 7.62 -9.45 270) (size 1.5 3) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 12 "Net-(U1-Pad14)") (pinfunction "RX") (pintype "input") (tstamp f5057d50-11ce-4093-bb16-e6f4d9fb8270))
+    (model "${KIPRJMOD}/4600 QTPy.step"
+      (offset (xyz 10.4 -8.9 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -90))
+    )
   )
 
   (footprint "Trackball:MMBT2222A-7-F" (layer "F.Cu")
@@ -275,6 +280,11 @@
       (net 4 "GND") (pinfunction "E") (pintype "passive") (tstamp e32cbcd5-f232-46e8-85f5-8841d6054a4e))
     (pad "3" smd rect (at 1.016 0 270) (size 1.3208 0.5588) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "Net-(J2-Pad1)") (pinfunction "C") (pintype "output") (tstamp 271e4ff3-4681-4b27-b89a-5cebefdbb10a))
+    (model "${KIPRJMOD}/MMBT2222A-7-F.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "LOGO" (layer "F.Cu")

@@ -103,4 +103,9 @@
   (pad "12" smd rect (at 2.54 -9.45) (size 1.5 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4eef2953-3903-4e05-97e7-9fcf16940601))
   (pad "13" smd rect (at 5.08 -9.45) (size 1.5 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f8d4d028-758d-42dc-a2cd-2e3e9bf547ca))
   (pad "14" smd rect (at 7.62 -9.45) (size 1.5 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 66f51a33-d39f-4ca8-a2cb-87b602325ef1))
+  (model "${KIPRJMOD}/4600 QTPy.step"
+    (offset (xyz 10.35 -8.9 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )

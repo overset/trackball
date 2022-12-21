@@ -9,9 +9,10 @@ These are the mezzanine PCBs that connect the <a href="https://www.adafruit.com/
 This mezzanine PCB supports 2 optical sensor breakout boards being tested on a new case design. This leverages the PMW3389DM-T3QU or PMW3360DM-T2QU breakout boards from MrJohnK. Having the second optical sensor enables detecting horizontal ball movement (like a flat spin) to enable scroll/wheel events. This is specifically designed to work with the current case design detecting movements off a radial ball bearing for 1 sensor (scroll) and the trackball itself (x, y cursor movement).
 
 <p align="center">
-	<span align="left"><img width="32%" src="./pictures/20221218-PCB-editor-v02-front.jpg"></span>
-	<span align="left"><img width="32%" src="./pictures/20221218-PCB-3D-v02-front.jpg"></span>
-	<span align="right"><img width="32%" src="./pictures/20221218-PCB-3D-v02-back.jpg"></span>
+	<span align="left"><img width="24%" src="./pictures/20221221-PCB-editor-v03-front.jpg"></span>
+	<span align="left"><img width="24%" src="./pictures/20221221-PCB-3D-v03-front-SMD.jpg"></span>
+	<span align="left"><img width="24%" src="./pictures/20221221-PCB-3D-v03-front.jpg"></span>
+	<span align="right"><img width="24%" src="./pictures/20221221-PCB-3D-v03-back.jpg"></span>
 </p>
 
 ### Single Optical Sensor PCB

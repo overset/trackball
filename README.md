@@ -15,6 +15,10 @@ This mezzanine PCB supports 2 optical sensor breakout boards being tested on a n
 	<span align="right"><img width="24%" src="./pictures/20221221-PCB-3D-v03-back.jpg"></span>
 </p>
 
+<p align="center">
+	<img src="./pictures/20230127-v1.4-dual-sensor-PCB-reflow.gif">
+</p>
+
 ### Single Optical Sensor PCB
 
 This mezzanine PCB supports a single optical sensor breakout and is good for a dedicated trackball or dedicated scrollball. This allows for a smaller case design, but made with using a 50mm or larger ball.
